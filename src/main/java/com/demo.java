@@ -7,5 +7,7 @@ public class demo {
     public void say(){
         System.out.println("s is a test");
         System.out.println("two");
+        System.out.println("two");
+        System.out.println("two");
     }
 }

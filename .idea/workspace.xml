@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d7a86ce-612d-4b4b-8810-d9fa52ecaef9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/demo.java" afterPath="$PROJECT_DIR$/src/main/java/com/demo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web.iml" afterPath="$PROJECT_DIR$/web.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,8 +29,8 @@
       <file leaf-file-name="demo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+            <state relative-caret-position="250">
+              <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -579,7 +578,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525848807062</updated>
-      <workItem from="1525848808273" duration="2045000" />
+      <workItem from="1525848808273" duration="2166000" />
     </task>
     <task id="LOCAL-00001" summary="实验">
       <created>1525848863730</created>
@@ -595,11 +594,18 @@
       <option name="project" value="LOCAL" />
       <updated>1525850081197</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="地方条的规定">
+      <created>1525851310338</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1525851310338</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2045000" />
+    <option name="totallyTimeSpent" value="2166000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="0" width="1400" height="820" extended-state="0" />
@@ -645,7 +651,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="实验" />
     <MESSAGE value="dffs" />
-    <option name="LAST_COMMIT_MESSAGE" value="dffs" />
+    <MESSAGE value="地方条的规定" />
+    <option name="LAST_COMMIT_MESSAGE" value="地方条的规定" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -662,8 +669,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        <state relative-caret-position="250">
+          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
           <folding />
         </state>
       </provider>
